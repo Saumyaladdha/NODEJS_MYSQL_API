@@ -61,14 +61,14 @@ cd NODEJS_MYSQL_API
 npm install
 
 ```
-##Usage
+## Usage
 Start the server:
 ```bash
 npm start
 ```
 The server will start running at http://localhost:3050.
 
-##Testing
+## Testing
 
 Unit tests are available in the tests directory.
 Run tests using the following command:
@@ -76,21 +76,21 @@ Run tests using the following command:
 npm test
 ```
 
-##Approach
-#Technology Stack
-#Node.js: Runtime environment for server-side JavaScript.
-#Express.js: Web application framework for routing and middleware.
-#MySQL: Relational database management system.
-#Sequelize: ORM library for MySQL database interactions.
-#JWT (JSON Web Tokens): Authentication and authorization.
-#Multer: Middleware for handling file uploads
+## Approach
+# Technology Stack
+# Node.js: Runtime environment for server-side JavaScript.
+# Express.js: Web application framework for routing and middleware.
+# MySQL: Relational database management system.
+# Sequelize: ORM library for MySQL database interactions.
+# JWT (JSON Web Tokens): Authentication and authorization.
+# Multer: Middleware for handling file uploads
 
-#Development Process
-#Database Design: Efficient schema design with relational integrity.
-#API Endpoints: Creation of RESTful endpoints.
-#Middleware Integration: Incorporating middleware for validation, error handling, and authentication.
-#File Uploads: Implementing Multer for image uploads.
-#Testing: Ensuring reliability with unit tests.
+# Development Process
+# Database Design: Efficient schema design with relational integrity.
+# API Endpoints: Creation of RESTful endpoints.
+# Middleware Integration: Incorporating middleware for validation, error handling, and authentication.
+# File Uploads: Implementing Multer for image uploads.
+# Testing: Ensuring reliability with unit tests.
 #Documentation: Detailed instructions for setup and usage
 
 
