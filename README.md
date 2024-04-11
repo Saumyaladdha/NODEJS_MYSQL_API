@@ -50,3 +50,8 @@ This is a RESTful API for managing blog posts, comments, user authentication, an
        id INT AUTO_INCREMENT PRIMARY KEY,
        name VARCHAR(255) NOT NULL
    );
+## Installation
+
+Clone the repository, navigate to the project directory, and install dependencies:
+```bash
+git clone https://github.com/Saumyaladdha/NODEJS_MYSQL_API/ && cd blog-api && npm install
