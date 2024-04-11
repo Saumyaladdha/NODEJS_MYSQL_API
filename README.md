@@ -52,6 +52,10 @@ This is a RESTful API for managing blog posts, comments, user authentication, an
    );
 ## Installation
 
-Clone the repository, navigate to the project directory, and install dependencies:
+#Clone the repository, navigate to the project directory, and install dependencies:
 ```bash
-git clone https://github.com/Saumyaladdha/NODEJS_MYSQL_API/ && cd blog-api && npm install
+git clone https://github.com/Saumyaladdha/NODEJS_MYSQL_API/
+
+
+#Navigate to the project directory:
+
