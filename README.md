@@ -58,6 +58,3 @@ git clone https://github.com/Saumyaladdha/NODEJS_MYSQL_API/
 cd NODEJS_MYSQL_API
 npm install
 
-
-
-
